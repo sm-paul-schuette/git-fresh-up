@@ -10,3 +10,6 @@ The presentation shows three catch-phrases in the work with git
 
 ## focus of this repo
 This repo's main-focus is to feed the *perfect-later* with some hands-on.
+
+The idea is to show how to efficiently rebase/squash commits of a cluttered branch before releasing it to the public (i.e. a non-feature-branch).
+
